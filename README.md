@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Git
+## <ins> What is it? </ins> 
+[Git](https://git-scm.com) is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it. Some features of Git are the follwoing.
+- It allows people to work <span style="color: blue;"> *remotely (from local server)* </span> or <span style="color: blue;"> *even while they are not on VPN or online* </span>.
+- It is designed to <span style="color: red;"> avoid or minimize irreversible damage on data </span>.
 
-You can use the [editor on GitHub](https://github.com/Samuelber-lab/Learning-journal-03/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Git](https://www.google.com/calendar?tab=ic1&authuser=0)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Github
+## <ins> What is it? </ins> 
+It can be consideres as a hub-focused tool which facilitates Integration-Manager Workflow. It is the largest existing host for Git repositories and is used by millions of developers worldwide. It is a place/ repository to store multitudes of patent protected and open code resources. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Samuelber-lab/Learning-journal-03/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Github](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Flogos_page%2FGitHub-Mark.png&imgrefurl=https%3A%2F%2Fgithub.com%2Flogos&tbnid=Kq4l3mSBVj08zM&vet=12ahUKEwjIz43z28joAhVrh54KHaLIAdQQMygAegUIARCOAg..i&docid=H8p6HHzcTglWAM&w=560&h=560&q=Github%20logo&hl=en&client=safari&ved=2ahUKEwjIz43z28joAhVrh54KHaLIAdQQMygAegUIARCOAg)
